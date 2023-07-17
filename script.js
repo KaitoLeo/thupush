@@ -159,3 +159,4 @@ console.log(Number(namSinh) + 18);
 let n = '3' + 3;
 n = n - 3;
 console.log(n);
+console.log(xin chao);
